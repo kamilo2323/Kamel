@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="movie",Adnan_01
+https://pegasus.5387692.xyz/api/hls/1050/720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="movie",02_adnan
+https://pegasus.5387692.xyz/api/hls/1051/720p/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="movie",03_adnan
+https://pegasus.5387692.xyz/api/hls/1052/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="movie",adnan_04
+https://pegasus.5387692.xyz/api/hls/1053/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="movie",adnan_05
+https://pegasus.5387692.xyz/api/hls/1054/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="movie",adnan_06
+https://pegasus.5387692.xyz/api/hls/1055/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="movie",adnan_07
+https://pegasus.5387692.xyz/api/hls/1056/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="movie",Adnan_08
+https://pegasus.5387692.xyz/api/hls/1057/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="movie",adnan_09
+https://pegasus.5387692.xyz/api/hls/1058/720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="movie",adnan_10
+https://pegasus.5387692.xyz/api/hls/1059/720p/playlist.m3u8
+#EXTINF:-1   group-title="movie",GA live" tvg-logo="" group-title="Radio stations" - ATL Blaze Crunk City Radio Atlanta
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/123976
+#EXTINF:-1   group-title="movie",Alternative -  Psychedelic live" tvg-logo="" group-title="Radio stations"
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/124620
+#EXTINF:-1   group-title="movie",Country -  Blues live" tvg-logo="" group-title="Radio stations"
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/124724
+#EXTINF:-1   group-title="movie",WRVM -  WYVM 102.7 and 88.1 and 90.9 FM live" tvg-logo="" group-title="Radio stations"
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/125174
+#EXTINF:-1   group-title="movie",Indie -  Top 40
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/125242
+#EXTINF:-1   group-title="serie",DRIVE-INS AND DIVES" tvg-logo="" group-title="24/7" - 24/7 DINERS
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/325112
+#EXTINF:-1   group-title="live",#7 -  #11 & #14 (Final Round) @ Jun 14 10:45 AM ET" tvg-logo="" group-title="ESPN+"
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/326472
+#EXTINF:-1   group-title="live",Leg 1) @ Jun 14 02:50 PM ET" tvg-logo="" group-title="ESPN+" - ESPN+ 11 : Malaga CF vs. Almeria (Final
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/326479
+#EXTINF:-1   group-title="live",Leg 1) @ Jun 14 02:50 PM ET" tvg-logo="" group-title="ESPN+" - ESPN+ 12 : En Espal-Malaga CF vs. Almer (Final
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/326480
+#EXTINF:-1   group-title="live",6/14 - ESPN FC @ Jun 14 09:00 PM ET" tvg-logo="" group-title="ESPN+"
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/326486
+#EXTINF:-1   group-title="live",6/14 - In the Crease @ Jun 14 11:00 PM ET" tvg-logo="" group-title="ESPN+"
+http://1tv41.icu:8080/B5g2kVUEJS/u3JDEZbY3b/326488
