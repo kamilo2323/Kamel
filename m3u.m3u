@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:1 tvg-name="First Channel" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Movie",First Channel
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85%D8%AF%D8%A8%D9%84%D8%AC%D8%A9.mp4
+#EXTINF:1 tvg-name="Channel 2" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Movie",Channel 2
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85
+#EXTINF:1 tvg-name="Channel 3" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Movie",Channel 3
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85
+#EXTINF:1 tvg-name="Channel 4" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Movie",Channel 4
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85
+#EXTINF:1 tvg-name="Channel 5" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Series",Channel 5
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85
+#EXTINF:1 tvg-name="Channel 6" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Series",Channel 6
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85
+#EXTINF:1 tvg-name="Channel 7" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Series",Channel 7
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85
+#EXTINF:1 tvg-name="Channel 8" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Series",Channel 8
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85
+#EXTINF:1 tvg-name="live" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Live",live
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85
+#EXTINF:1 tvg-name="Channel 10" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Live",Channel 10
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85
+#EXTINF:1 tvg-name="Channel 11" tvg-logo="https://od.lk/d/MV8zNjQ5Mzg5NzFfTFJleGk/compressed_1786482803934.png" group-title="Live",Channel 11
+https://od.lk/s/MV8zNjUwMDQxMDNfeERMSmM/%D8%B9%D8%AF%D9%86%D8%A7%D9%86%20%D9%88%D9%84%D9%8A%D9%86%D8%A7%20-%20%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9%201%20%D9%85
